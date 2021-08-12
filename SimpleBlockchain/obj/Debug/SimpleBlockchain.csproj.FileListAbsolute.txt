@@ -1,0 +1,6 @@
+C:\Users\Omen\source\repos\SimpleBlockchain\SimpleBlockchain\bin\Debug\SimpleBlockchain.dll
+C:\Users\Omen\source\repos\SimpleBlockchain\SimpleBlockchain\bin\Debug\SimpleBlockchain.pdb
+C:\Users\Omen\source\repos\SimpleBlockchain\SimpleBlockchain\obj\Debug\SimpleBlockchain.csprojAssemblyReference.cache
+C:\Users\Omen\source\repos\SimpleBlockchain\SimpleBlockchain\obj\Debug\SimpleBlockchain.csproj.CoreCompileInputs.cache
+C:\Users\Omen\source\repos\SimpleBlockchain\SimpleBlockchain\obj\Debug\SimpleBlockchain.dll
+C:\Users\Omen\source\repos\SimpleBlockchain\SimpleBlockchain\obj\Debug\SimpleBlockchain.pdb

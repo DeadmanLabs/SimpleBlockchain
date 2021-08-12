@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleBlockchain", "SimpleBlockchain\SimpleBlockchain.csproj", "{CCE65EEE-7397-4F7A-B58F-699951D94594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockchainMessaging", "BlockchainMessaging\BlockchainMessaging.csproj", "{9EFBD70E-E2ED-43F6-BEF2-398B21D916AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE65EEE-7397-4F7A-B58F-699951D94594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE65EEE-7397-4F7A-B58F-699951D94594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE65EEE-7397-4F7A-B58F-699951D94594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE65EEE-7397-4F7A-B58F-699951D94594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFBD70E-E2ED-43F6-BEF2-398B21D916AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFBD70E-E2ED-43F6-BEF2-398B21D916AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFBD70E-E2ED-43F6-BEF2-398B21D916AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFBD70E-E2ED-43F6-BEF2-398B21D916AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0965E95-8816-49CD-B79C-0486736D6C6B}
+	EndGlobalSection
+EndGlobal
